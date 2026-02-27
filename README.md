@@ -22,7 +22,7 @@ Insight Generation
 
 Overall, this project showcases the ability to transform raw data into meaningful business insights using Python.
 
-🛠 Tools Used:-
+# 🛠 Tools Used:-
 Python
 Pandas
 NumPy
@@ -30,7 +30,7 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-📁 Dataset Features
+# 📁 Dataset Features:- 
 Start Date
 End Date
 Category
@@ -38,14 +38,28 @@ Start Location
 Stop Location
 Miles
 
-Purpose:-
-📈 Key Insights
-Most rides occurred during business hours.
-Business trips were more frequent than personal trips.
-Certain locations had the highest ride demand.
+# Purpose:-
+📈 Key Insights :- 
+The primary purpose of this project is to analyze Uber ride data to identify patterns, trends, and insights that can help understand customer behavior and ride demand.
+This project aims to:
+Understand ride distribution over different months and time periods
+Identify peak booking hours
+Compare Business and Personal ride categories
+Analyze the most frequent pickup and drop locations
+Study trip purposes and travel distance patterns
+Generate insights that can help improve operational decision-making
+By performing exploratory data analysis (EDA), the project transforms raw Uber ride data into meaningful visual insights. The goal is to demonstrate practical data analysis skills using Python and visualization tools.
 
-🚀 Skills Demonstrated
+# This project also helps in developing:
+Data cleaning skills
+Feature extraction from datetime data
+Visualization techniques
+Analytical thinking for business insights
+
+# 🚀 Skills Demonstrated
 Data Cleaning
 Data Visualization
+Exploratory Sata Analysis(EDA)
+Handling Missing Values
 Exploratory Data Analysis (EDA)
 Handling Missing Values
