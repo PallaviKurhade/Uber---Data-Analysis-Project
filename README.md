@@ -61,5 +61,3 @@ Data Cleaning
 Data Visualization
 Exploratory Sata Analysis(EDA)
 Handling Missing Values
-Exploratory Data Analysis (EDA)
-Handling Missing Values
